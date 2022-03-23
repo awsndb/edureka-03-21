@@ -1,2 +1,1 @@
 Hello World this is my first file in nano editor ans using git and github
-adding second line
